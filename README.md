@@ -28,7 +28,7 @@ Reference documentation about PingFederate is available here:
 * [Installing PingFederate](https://docs.pingidentity.com/csh?Product=pf-latest&topicname=ptg1564002959252.html)
 * [Managing OAuth clients](https://docs.pingidentity.com/csh?Product=pf-latest&topicname=hsx1564002992533.html)
 * [Integration with the PingFederate Authentication API for PingID SDK](https://apidocs.pingidentity.com/pingid-sdk/guide/pf-adapter/pid_c_SDKadapterForPFauthenticationApi/)
-* [Integration with the PingFederate Authentication API for PingOne MFA](https://docs.pingidentity.com/bundle/integrations/page/gaa1600114529505-5.html)
+* [Integration with the PingFederate Authentication API for PingOne MFA](https://docs.pingidentity.com/bundle/integrations/page/vyz1605884824044.html)
 
 Note: The Mobile Authentication Framework for Android supports different versions per platform:
 * PingID: PingFederate 10.1, Adapter 1.8 and up.
